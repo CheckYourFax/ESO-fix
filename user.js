@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ESO Forum visibility Fix
 // @namespace    http://tampermonkey.net/
-// @version      1.04
+// @version      1.05
 // @description  Fixes ESO forums with a simple CSS hack to temporarily work around a visibility bug within the ESO forums
 // @include      https://forums.elderscrollsonline.com/*
 // @author       CheckYourFax
